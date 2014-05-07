@@ -1,0 +1,6 @@
+{
+  "name": "mouse-tracker",
+  "author": "Evan Hahn <me@evanhahn.com> (http://evanhahn.com)",
+  "version": "0.1.0",
+  "main": "mousetracker.js"
+}
